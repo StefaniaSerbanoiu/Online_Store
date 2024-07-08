@@ -1,0 +1,10 @@
+https://media.dior.com/couture/ecommerce/media/catalog/product/G/B/1676656893_327M34A3332_X1700_E01_ZHC.jpg?imwidth=1080,36,"Beige",21275,100
+https://cdn.aboutstatic.com/file/images/6de565f5258f0a18507b84a93fef3363.png?bg=F4F4F5&quality=75&trim=1&height=480&width=360,34,"Pink",348,10050
+https://static.mohito.com/media/catalog/product/3/4/3403U-99X-001-1-622565_17.jpg",36,"Black",450,105
+https://img01.ztat.net/article/spp-media-p1/564b03096e5e49ca8927a0294bfb41e7/ca546cc6f1e1442fb4452c1ceb5f600f.jpg?imwidth=1800",36,"Black",500,10
+https://media.remix.eu/files/08-2023/Damski-shlifer-S-Oliver-Black-Label-119728155a.jpg",38,"Black",389,156
+https://cdn.aboutstatic.com/file/images/259c8326e1ebde05b079dafd2430765a.png?bg=F4F4F5&quality=75&trim=1&height=480&width=360",40,"Black",247,105
+https://cdn.aboutstatic.com/file/images/6820ac993dc4ece219ccaa37f9a92438.jpg?quality=75&height=480&width=360",34,"kaki",555,1005
+https://static.sinsay.com/media/catalog/product/3/1/3149F-01X-001-1-580435_10.jpg",36,"Ivory",160,16
+https://static.sinsay.com/media/catalog/product/3/1/3149F-01X-003-1-585271_10.jpg,34,"Ivory",160,25
+https://static.sinsay.com/media/catalog/product/3/1/31497F-01X-003-1-585271_10.jpg,35,"Ivory",160,25
