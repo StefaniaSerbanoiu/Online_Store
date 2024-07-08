@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>TrenchCoats_FinalClass</class>
- <widget class="QMainWindow" name="TrenchCoats_FinalClass">
+ <class>Product_FinalClass</class>
+ <widget class="QMainWindow" name="Product_FinalClass">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>TrenchCoats_Final</string>
+   <string>Product_Final</string>
   </property>
   <widget class="QWidget" name="centralWidget"/>
   <widget class="QMenuBar" name="menuBar">
@@ -36,7 +36,7 @@
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
-  <include location="TrenchCoats_Final.qrc"/>
+  <include location="Product_Final.qrc"/>
  </resources>
  <connections/>
 </ui>

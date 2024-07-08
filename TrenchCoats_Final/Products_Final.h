@@ -12,5 +12,5 @@ public:
     ~Products_Final();
 
 private:
-    Ui::TrenchCoats_FinalClass ui; // originally the app stored just trench coats
+    Ui::Product_FinalClass ui; // originally the app stored just trench coats
 };
